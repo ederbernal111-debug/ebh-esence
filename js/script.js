@@ -65,9 +65,18 @@ const products = [
     name: 'SCEPTRE MALACHITE',
     brand: 'Maison Alhambra',
     img: 'img/sceptre-malachite.jpg',
-    price5: 70,
+    price5: 80,
     price10: 150,
     bg: 'linear-gradient(135deg, #002620, #2e7d32, #a5d6a7)'
+  },
+  {
+    id: 8,
+    name: 'FAKHAR PLATINUM',
+    brand: 'Lattafa',
+    img: 'img/fakhar-platinum.jpg',
+    price5: 80,
+    price10: 150,
+    bg: 'linear-gradient(135deg, #1a1a2e, #4a4a6a, #c0c0c0)'
   }
 ];
 
